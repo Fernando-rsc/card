@@ -24,17 +24,11 @@ body{
     border-radius: 10px;
 }
 
-div{
-   
-  /*display:inline-flex;
-  margin: auto;*/
- 
+
+div{  
+/*display:inline-flex;
+margin: auto;*/
 }
-
-    
-    
-   
-
 .card{
     position:relative;
     width:300px;
